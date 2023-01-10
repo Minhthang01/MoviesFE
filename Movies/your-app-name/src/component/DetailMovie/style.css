@@ -1,0 +1,29 @@
+.detail {
+    padding-top: 46%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.item-content {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 4px;
+    width: 760px;
+    top: 3%;
+    left: 28%;
+}
+
+.video {
+    width: 600px;
+    left: 34%;
+    top: 42%;
+}
+
+.delete-icon {
+    top: -11px;
+    right: 22%;
+}
+
+.delete-icon-2 {
+    top: -11px;
+    right: 22.5%;
+}
